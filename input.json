@@ -1,0 +1,37 @@
+[
+    {
+        "latitude": 37.7749,
+        "longitude": -122.4194,
+        "timestamp": 1638580000000
+    },
+    {
+        "latitude": 37.7750,
+        "longitude": -122.4195,
+        "timestamp": 1638580010000
+    },
+    {
+        "latitude": 37.7751,
+        "longitude": -122.4196,
+        "timestamp": 1638580020000
+    },
+    {
+        "latitude": 37.7752,
+        "longitude": -122.4197,
+        "timestamp": 1638580030000
+    },
+    {
+        "latitude": 37.7753,
+        "longitude": -122.4198,
+        "timestamp": 1638580040000
+    },
+    {
+        "latitude": 37.7754,
+        "longitude": -122.4199,
+        "timestamp": 1638580050000
+    },
+    {
+        "latitude": 37.7754,
+        "longitude": -122.4199,
+        "timestamp": 1638580060000
+    }
+]
